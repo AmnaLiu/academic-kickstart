@@ -1,4 +1,3 @@
----
 # title: Publications
 
 # View.
@@ -6,14 +5,13 @@
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view: 1
+# view: 1
 
 # Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: ""
+# header:
+  # caption: ""
+ #  image: ""
 
----
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Data-oriented Mobile Crowdsensing: A Comprehensive Survey"
