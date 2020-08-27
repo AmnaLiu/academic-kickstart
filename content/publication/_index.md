@@ -1,5 +1,5 @@
 ---
-title: Publications
+# title: Publications
 
 # View.
 #   1 = List
@@ -16,13 +16,13 @@ header:
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "{Data-oriented Mobile Crowdsensing: A Comprehensive Survey}"
-authors: [Yutong Liu,Linghe Kong,Guihai Chen]
-date: {{2019}}
+title: "Data-oriented Mobile Crowdsensing: A Comprehensive Survey"
+authors: ["Yutong Liu","Linghe Kong","Guihai Chen"]
+date: "2019"
 doi: "10.1109/COMST.2019.2910855"
 
-# Schedule page 10.1109/COMST.2019.2910855ublish date (NOT publication's date).
-publishDate: {{ .Date }}
+# Schedule page by publish date (NOT publication's date).
+# publishDate: {2019}
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -51,14 +51,14 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://doi.org/10.1109/COMST.2019.2910855
-url_code:
-url_dataset:
-url_poster:
-url_project:
-url_slides: https://doi.org/10.1109/COMST.2019.2910855
-url_source:
-url_video:
+url_pdf: "https://doi.org/10.1109/COMST.2019.2910855"
+url_code: ""
+url_dataset: ""
+url_poster: ""
+url_project: ""
+url_slides: "https://doi.org/10.1109/COMST.2019.2910855"
+url_source: ""
+url_video: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
