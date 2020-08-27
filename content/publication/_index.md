@@ -13,7 +13,7 @@
  #  image: ""
 
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
++++
 title: "Data-oriented Mobile Crowdsensing: A Comprehensive Survey"
 authors: ["Yutong Liu","Linghe Kong","Guihai Chen"]
 date: "2019"
@@ -79,7 +79,4 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
----
-
-
----
++++
